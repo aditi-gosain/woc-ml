@@ -8,9 +8,9 @@
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to the observed data points.
 It is used to find the line of best fit, by minimising the sum of mean square errors by recursively performing gradient descent.
 
-**Accuracy: 62.03%*
-**Hyperparameters:**
-Learning Rate: 0.001
+**Accuracy: 62.03%**<br/>
+**Hyperparameters:**<br/>
+Learning Rate: 0.001<br/>
 Number of Epochs: 6000
 
 
