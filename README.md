@@ -17,10 +17,10 @@ It is used to find the line of best fit, by minimising the sum of mean square er
 Logistic regression models the data using the sigmoid function. It is used as a classification algorithm. 
 Here, it is used for multinomial classification (10 classes).
 
-**Accuracy: **
-**Hyperparameters: **
-*Learning Rate: *
-*Number of Epochs: *
+** Accuracy: **
+** Hyperparameters: **
+* Learning Rate: *
+* Number of Epochs: *
 
 ### K Nearest Neighbours Algorithm
 
