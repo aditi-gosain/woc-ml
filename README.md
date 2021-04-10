@@ -19,9 +19,9 @@ Number of Epochs: 6000
 Logistic regression models the data using the sigmoid function. It is used as a classification algorithm. 
 Here, it is used for multinomial classification (10 classes).
 
-**Accuracy: 97.739%**
-**Hyperparameters:**
-Learning Rate: 0.000009
+**Accuracy: 97.739%**<br/>
+**Hyperparameters:**<br/>
+Learning Rate: 0.000009<br/>
 Number of Epochs: 3500
 
 
@@ -30,8 +30,8 @@ Number of Epochs: 3500
 KNN is a model that classifies data points based on the points that are most similar to it.  
 The algorithm works by finding the Euclidean distance between the mathematical values of these point
 
-**Accuracy: 95.92%**
-**Hyperparameters:**
+**Accuracy: 95.92%**<br/>
+**Hyperparameters:**<br/>
 K: 5
 
 
@@ -40,6 +40,10 @@ K: 5
 A neural network functions when some input data is fed to it. 
 This data is then processed via layers of perceptrons to produce the desired output.
 
-**Accuracy: **
-**Hyperparameters: **
+**Accuracy: 10.10%**<br/>
+**Hyperparameters:**<br/>
+Number of hidden layers: 2<br/>
+Number of nodes per layer: 16<br/>
+Learning rate: 0.0009<br/>
+Number of Epochs: 500
 
