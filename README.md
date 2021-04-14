@@ -3,15 +3,20 @@
 
 ## ML Bootcamp
 
+The objective of this project is to get familiar with basic ML algorithms - Linear regression, Logistic regression, KNN and Neural Network.
+The following libraries are used - NumPy, Pandas, and Matplotlib to code these algorithms from scratch.
+
 ### Linear Regression
 
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to the observed data points.
 It is used to find the line of best fit, by minimising the sum of mean square errors by recursively performing gradient descent.
 
+
 **Accuracy: 62.03%**<br/>
 **Hyperparameters:**<br/>
 Learning Rate: 0.001<br/>
 Number of Epochs: 6000
+
 
 
 ### Logistic Regression
