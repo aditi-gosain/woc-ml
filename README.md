@@ -68,7 +68,7 @@ A neural network functions when some input data is fed to it.
 This data is then processed via layers of perceptrons to produce the desired output.
 
 The code consists of the following methods: 
-- sigmoid_func(): Defines the sigmoid function.
+- sigmoid_func(): Defines the sigmoid activation function.
 - forward_prop(): Used for forward propagation.
 - back_prop(): Used for calculating error using back propagation.
 - update_params(): Used to update the weights and biases using the obtained error.
@@ -85,7 +85,7 @@ Number of Epochs: 500
 
 ### Takeaways
 
-I learned a lot over the course of this project. I started out as a complete beginner, with only basic knowledge of python.
+I learned a lot over the course of this project. I started out as a complete beginner, with only basic knowledge of Python.
 This project has helped me get started in the field of machine learning and I'm looking forward to taking up more such projects 
 in the future.
 
