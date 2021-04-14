@@ -31,7 +31,7 @@ Number of Epochs: 6000
 Logistic regression models the data using the sigmoid function. It is used as a classification algorithm. 
 Here, it is used for multinomial classification (10 classes).
 
-The code consists of 2 main functions - log_reg() and multi_call().
+The code consists of 2 methods - log_reg() and multi_call().
 
 log_reg() is used for binary classification - by one hot encoding Y values.
 multi_call() is used for classifying the data into 10 classes by using the one vs. all strategy.
@@ -66,6 +66,14 @@ K: 5
  
 A neural network functions when some input data is fed to it. 
 This data is then processed via layers of perceptrons to produce the desired output.
+
+The code consists of the following methods: 
+- sigmoid_func(): Defines the sigmoid function.
+- forward_prop(): Used for forward propagation.
+- back_prop(): Used for calculating error using back propagation.
+- update_params(): Used to update the weights and biases using the obtained error.
+- grad_desc(): Used for iterating through all the training examples.
+- accuracy(): Used for calculating accuracy.
 
 
 **Accuracy: 10.10%**<br/>
