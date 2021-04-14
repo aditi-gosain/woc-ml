@@ -33,8 +33,8 @@ Here, it is used for multinomial classification (10 classes).
 
 The code consists of 2 methods - log_reg() and multi_call().
 
-log_reg() is used for binary classification - by one hot encoding Y values.
-multi_call() is used for classifying the data into 10 classes by using the one vs. all strategy.
+- log_reg() is used for binary classification, by one hot encoding Y values.
+- multi_call() is used for classifying the data into 10 classes by using the one vs. all strategy.
 
 The cost function is plotted against number of iterations for each class to check if gradient descent is running properly.
 The obtained parameters are then used to predict labels and calculate its accuracy.
