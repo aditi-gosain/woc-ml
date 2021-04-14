@@ -83,3 +83,12 @@ Number of nodes per layer: 16<br/>
 Learning rate: 0.0009<br/>
 Number of Epochs: 500
 
+### Takeaways
+
+I learned a lot over the course of this project. I started out as a complete beginner, with only basic knowledge of python.
+This project has helped me get started in the field of machine learning and I'm looking forward to taking up more such projects 
+in the future.
+
+### Acknowledgement 
+
+Thank you to my mentors - Harsh sir and Taneesh sir for guiding me throughout this project.
