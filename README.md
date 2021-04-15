@@ -72,8 +72,8 @@ The code consists of the following methods:
 - forward_prop(): Used for forward propagation.
 - back_prop(): Used for calculating error using back propagation.
 - update_params(): Used to update the weights and biases using the obtained error.
-- call(): Used for iterating through all the training examples.
-- accuracy(): Used for calculating accuracy.
+- call(): Contains a for loop for iterating several times.
+- accuracy(): Used for calculating accuracy. 
 
 
 **Accuracy: 10.10%**<br/>
